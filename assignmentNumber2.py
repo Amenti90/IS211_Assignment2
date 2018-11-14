@@ -16,7 +16,7 @@ logger = logging.getLogger("assignment2")
 
 def downloadData(url):
     """
-    Use urllib2 to download the file which is found from website .
+    Use urllib2 to download the file which is found from website on old student's Github assignment.
 
     :param url: the URL
     :return:
